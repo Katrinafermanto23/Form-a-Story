@@ -8,9 +8,9 @@ Story Generation: The collected data is dynamically inserted into a pre-written 
 - Output: The resulting personalized story is displayed on the page.
   
 **Key Features:**
-Interactive Form: User-friendly form for easy input.
-Dynamic Content: Stories are generated in real-time based on user input.
-Customizable: The story template can be easily modified to create different narratives.
+- Interactive Form: User-friendly form for easy input.
+- Dynamic Content: Stories are generated in real-time based on user input.
+- Customizable: The story template can be easily modified to create different narratives.
 
 **Technologies Used:**
 1. HTML
